@@ -1,9 +1,9 @@
 # demo_r_ws23
 
 
-Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/demo_r_ws23/main)
+Launch Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/berndweiss/demo_r_ws23/main)
 
-RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/arnim/demo_r_ws23/main?urlpath=rstudio)
+RStudio: [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/berndweiss/demo_r_ws23/main?urlpath=rstudio)
 
 --- 
 
